@@ -5,9 +5,8 @@
 - Become a **Fullstack Developer**
 
 ## 🛠️ Tech Stack
-- Languages: JavaScript, TypeScript, Python, C/C++
-- Web: React, Node.js, Express, Next.js
-- DB: MySQL, PostgreSQL, MongoDB
+- Languages: JavaScript, Python, C/C++
+- Web: React, Node.js, Next.js
 
 ## 📫 Contact
 - Email: [hieuanhvt2005@gmail.com](mailto:phuc26062005@gmail.com)
