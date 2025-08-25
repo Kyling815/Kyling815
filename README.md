@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Minh Phúc currently a CS student at **Ho Chi Minh City University of Technology (HCMUT)**
+# 👋 Hello, I'm Hieu Anh currently a CS student at **Ho Chi Minh City University of Technology (HCMUT)**
 
 ## 🎯 Goals
 - Improve my skills in **Web Development** & **Software Engineering**
