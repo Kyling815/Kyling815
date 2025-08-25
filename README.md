@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, I'm Minh Phúc currently a CS student at **Ho Chi Minh City University of Technology (HCMUT)**
 
-<!--
-**Kyling815/Kyling815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 Goals
+- Improve my skills in **Web Development** & **Software Engineering**
+- Become a **Fullstack Developer**
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Languages: JavaScript, TypeScript, Python, C/C++
+- Web: React, Node.js, Express, Next.js
+- DB: MySQL, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Email: [hieuanhvt2005@gmail.com](mailto:phuc26062005@gmail.com)
+
